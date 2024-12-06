@@ -1,0 +1,10 @@
+Avtozavodskii 5 70.0 15.0 10000000
+Avtozavodskii 1 32.0 10.0 5000000
+Avtozavodskii 1 40.5 15.0 6000000
+Avtozavodskii 3 61.5 20.0 8000000
+Komsomolskii 4 80.0 17.0 13000000
+Komsomolskii 2 38.5 19.0 5000000
+Central 2 55.8 15.0 6000000
+Central 2 60.5 20.0 8000000
+Central 3 80.0 17.0 9000000
+Shluzovoi 1 40.1 15.0 2000000
